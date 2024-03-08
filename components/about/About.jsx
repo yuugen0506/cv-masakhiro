@@ -37,7 +37,7 @@ const About = () => {
               <p>
                 I&apos;m a Full Stack Developer with over 6 years of experience. 
                 I&apos;m from Mongolia. I was born on May 6, 1993, in Ulaanbaatar and am half Japanese. 
-                I have had many friends since I was young and I am a communicative and loyal person who does not betray people's trust. 
+                I have had many friends since I was young and I am a communicative and loyal person who does not betray people&apos;s trust. 
                 I am a quick learner and I like to follow a clean sequence in my work. 
                 I have studied and lived in Ireland as well as Japan.
               </p>
@@ -102,7 +102,7 @@ const About = () => {
               <Image
                 width={445}
                 height={599}
-                src="./img/thumbs/26-35.jpg"
+                src="/img/thumbs/26-35.jpg"
                 alt="thumb"
               />
 
@@ -132,7 +132,7 @@ const About = () => {
               <Image
                 width={445}
                 height={599}
-                src="./img/thumbs/26-35.jpg"
+                src="/img/thumbs/26-35.jpg"
                 alt="thumb"
               />
 
@@ -150,7 +150,7 @@ const About = () => {
               <Image
                 width={445}
                 height={599}
-                src="./img/thumbs/26-35.jpg"
+                src="/img/thumbs/26-35.jpg"
                 alt="thumb"
               />
 
@@ -195,7 +195,7 @@ const About = () => {
             <Image
               width={45}
               height={45}
-              src="./img/svg/cancel.svg"
+              src="/img/svg/cancel.svg"
               alt="close icon"
             />
           </button>
