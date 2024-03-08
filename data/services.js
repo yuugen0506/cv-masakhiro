@@ -1,13 +1,13 @@
 module.exports = [
   {
     id: 1,
-    imgIcon: "/img/svg/icons8-web-app-64.png",
+    imgIcon: "./img/svg/icons8-web-app-64.png",
     title: (
       <>
         ELPOS
       </>
     ),
-    popupImg: "/img/service/elpos-logo.jpg",
+    popupImg: "./img/service/elpos-logo.jpg",
     popupTitle: `Web application: Purchase Order System`,
     firstDescriptionText: (
       <>
@@ -54,13 +54,13 @@ module.exports = [
   },
   {
     id: 2,
-    imgIcon: "/img/svg/icons8-web-app-64-green.png",
+    imgIcon: "./img/svg/icons8-web-app-64-green.png",
     title: (
       <>
         HUB - <br /> Goyo Travel
       </>
     ),
-    popupImg: "/img/service/goyo_logo.jpg",
+    popupImg: "./img/service/goyo_logo.jpg",
     popupTitle: `Web application: HUB Goyo Travel`,
     firstDescriptionText: (
       <>
@@ -101,13 +101,13 @@ module.exports = [
   },
   {
     id: 3,
-    imgIcon: "/img/svg/icons8-web-app-64-white.png",
+    imgIcon: "./img/svg/icons8-web-app-64-white.png",
     title: (
       <>
         Goyo <br /> Travel
       </>
     ),
-    popupImg: "/img/service/goyo_logo.jpg",
+    popupImg: "./img/service/goyo_logo.jpg",
     popupTitle: `Web: Goyo Travel`,
     firstDescriptionText: (
       <>
@@ -151,13 +151,13 @@ module.exports = [
   },
   {
     id: 4,
-    imgIcon: "/img/svg/icons8-rest-api-64.png",
+    imgIcon: "./img/svg/icons8-rest-api-64.png",
     title: (
       <>
         Apis
       </>
     ),
-    popupImg: "/img/service/api.jpg",
+    popupImg: "./img/service/api.jpg",
     popupTitle: `Back-End: Api`,
     firstDescriptionText: (
       <>
