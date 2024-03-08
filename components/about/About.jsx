@@ -32,11 +32,11 @@ const About = () => {
           >
             <div className="info">
               <h3>
-                Hi, Im <span>Masakhiro Gerelt</span>
+                Hi, I&apos;m <span>Masakhiro Gerelt</span>
               </h3>
               <p>
-                I'm a Full Stack Developer with over 6 years of experience. 
-                I'm from Mongolia. I was born on May 6, 1993, in Ulaanbaatar and am half Japanese. 
+                I&apos;m a Full Stack Developer with over 6 years of experience. 
+                I&apos;m from Mongolia. I was born on May 6, 1993, in Ulaanbaatar and am half Japanese. 
                 I have had many friends since I was young and I am a communicative and loyal person who does not betray people's trust. 
                 I am a quick learner and I like to follow a clean sequence in my work. 
                 I have studied and lived in Ireland as well as Japan.
@@ -45,7 +45,7 @@ const About = () => {
             <div className="my_skills">
               <h3 className="title">What is my skill level?</h3>
               <p className="desc">
-                •	Framework
+                &bull;	Framework
               </p>
               <div className="wrapper">
                 <div className="dodo_progress">
@@ -53,7 +53,7 @@ const About = () => {
                 </div>
               </div>
               <p className="desc">
-                •	Programming language
+                &bull;	Programming language
               </p>
               <div className="wrapper">
                 <div className="dodo_progress">
@@ -61,7 +61,7 @@ const About = () => {
                 </div>
               </div>
               <p className="desc">
-                •	Front-End
+                &bull;	Front-End
               </p>
               <div className="wrapper">
                 <div className="dodo_progress">
@@ -69,7 +69,7 @@ const About = () => {
                 </div>
               </div>
               <p className="desc">
-                •	Back-End
+                &bull;	Back-End
               </p>
               <div className="wrapper">
                 <div className="dodo_progress">
@@ -77,7 +77,7 @@ const About = () => {
                 </div>
               </div>
               <p className="desc">
-                •	Database
+                &bull;	Database
               </p>
               <div className="wrapper">
                 <div className="dodo_progress">
