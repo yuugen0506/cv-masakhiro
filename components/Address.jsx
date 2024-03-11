@@ -4,7 +4,7 @@ const Address = () => {
   const addressContent = [
     {
       id: 1,
-      iconImg: "/img/address/email.png",
+      iconImg: "./img/address/email.png",
       name: "Email",
       info: (
         <>
