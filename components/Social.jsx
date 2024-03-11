@@ -10,18 +10,12 @@ import {
 const SocialShare = [
   {
     iconName: <FiFacebook />,
-    link: "https://www.facebook.com/Masahiro0506",
+    link: "",
   },
-  // { iconName: <FiTwitter />, link: "https://twitter.com/" },
   {
     iconName: <FiInstagram />,
-    link: "https://www.instagram.com/g.tsaxiur/?fbclid=IwAR3s6QXbWSmaEh-OZrIxvO-tB0jE17eq65ER4Nk5oeNcodCdc96fzl0SzTU",
+    link: "",
   },
-  // { iconName: <FiDribbble />, link: "https://dribbble.com/" },
-  // {
-  //   iconName: <FiLinkedin />,
-  //   link: "https://www.linkedin.com/feed/",
-  // },
 ];
 const Social = () => {
   return (

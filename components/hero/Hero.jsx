@@ -61,15 +61,15 @@ const Hero = () => {
             {heroContent.description}
           </p>
 
-          <div
+          {/* <div
             className="social"
             data-aos="fade-up"
             data-aos-duration="1200"
             data-aos-delay="400"
           >
             <Social />
-          </div>
-          <div
+          </div> */}
+          {/* <div
             className="edina_tm_button"
             data-aos="fade-up"
             data-aos-duration="1200"
@@ -78,7 +78,7 @@ const Hero = () => {
             <a href="./img/Masakhiro_Gerelt-CV.pdf" download className="color">
               Download CV
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

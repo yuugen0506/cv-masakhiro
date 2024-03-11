@@ -4,20 +4,7 @@ const Address = () => {
   const addressContent = [
     {
       id: 1,
-      iconImg: "./img/address/phone.png",
-      name: "Phone",
-      info: (
-        <>
-          <li>
-            <a href="Tel: +976 99718822">+976 99718822</a>
-          </li>
-        </>
-      ),
-      animDelay: "0",
-    },
-    {
-      id: 2,
-      iconImg: "./img/address/email.png",
+      iconImg: "/img/address/email.png",
       name: "Email",
       info: (
         <>
@@ -26,25 +13,8 @@ const Address = () => {
           </li>
         </>
       ),
-      animDelay: "100",
-    },
-    // {
-    //   id: 3,
-    //   iconImg: "/img/address/location.png",
-    //   name: "Address",
-    //   info: (
-    //     <>
-    //       <li>
-    //         <p>
-    //           Envato 121 King St,
-    //           <br />
-    //           Melbourne, Australia
-    //         </p>
-    //       </li>
-    //     </>
-    //   ),
-    //   animDelay: "200",
-    // },
+      animDelay: "0",
+    }
   ];
 
   return (

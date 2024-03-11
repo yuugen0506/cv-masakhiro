@@ -3,11 +3,8 @@ module.exports = [
   { meta: "last name", metaInfo: "Gerelt" },
   { meta: "Age", metaInfo: "30" },
   { meta: "Nationality", metaInfo: "MONGOLIA" },
-  // { meta: "Freelance", metaInfo: "Available" },
   { meta: "Address", metaInfo: "Ulaanbaatar, Mongolia" },
-  { meta: "phone", metaInfo: "+97699718822" },
   { meta: "Email", metaInfo: "yuugen0506@gmail.com" },
-  // { meta: "Skype", metaInfo: " rokers.nelson" },
   { meta: "langages", metaInfo: 
     <div>
       <p>• Mongolian (native).</p>

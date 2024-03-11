@@ -11,11 +11,11 @@ const ModalContent = () => {
         <div className="col-6">
           <h3>Personal Info</h3>
           <PersonalInfo />
-          <div className="edina_tm_button">
+          {/* <div className="edina_tm_button">
             <a href="./img/Masakhiro_Gerelt-CV.pdf" download className="color">
               Download CV
             </a>
-          </div>
+          </div> */}
         </div>
         {/* End  PersonalInfo */}
 
